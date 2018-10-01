@@ -24,7 +24,7 @@
 1. Have fun, ask questions, and be respectful
 2. Payouts are over PayPal.com only
 3. Payouts will be given once the bounty is complete
-4. You can "reserve" a bounty at most 1x for a 6 hr period by commenting/assigning yourself on the GitHub issue.  If progress is not made after this timeframe (e.g. no code is publicly visible), then the bounty is open up to be claimed and re-assigned by others
+4. You can "reserve" a bounty at most 1x for a 6 hr period by commenting/assigning yourself on the GitHub issue.  If progress is not made after this timeframe (e.g. no code is publicly visible), then the bounty is open up to be claimed and re-assigned by others.  You can only reserve one bounty at any given time
 5. All code must be kept MIT licensed
 6. If the package is a new package, then use <https://lass.js.org> to publish it
 7. Access to the repository/package must be given to [**@niftylettuce**](https://github.com/niftylettuce)
